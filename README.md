@@ -10,4 +10,15 @@ Welcome to the Smart Home Automation System! This project allows you to remotely
 **Security and Surveillance:** Enhance home security with real-time alerts and surveillance capabilities.
 **Scalability and Compatibility:** Compatible with a wide range of smart devices for seamless integration and future expansion.
 
+**Tools Used**
+Python
+Flask
+Python packages
+Git
 
+**Running the Code**
+Download the file name "Light bulb.py" from repository
+Run the code by going into that directory and Enter command in Windows Command prompt "python Ligh Bulb.py"
+Enter the details for the results.
+
+Same as, Download the file name "Imp
